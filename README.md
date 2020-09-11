@@ -10,3 +10,5 @@
 
 ✨ This infrastructure is automated using terraform.
 
+Writeup: https://www.linkedin.com/pulse/multi-tier-architecture-frontend-kubernetes-minikube-backend-bhalala
+
